@@ -54,7 +54,7 @@ If you want to generate an executable file manually, follow these steps:
 
 ## 👨‍💻 Author
 **Osanda Lakshitha**  
-GitHub: [YourGitHubLink](https://github.com/osandalakshitha)
+GitHub: [Osanda Lakshitha](https://github.com/osandalakshitha)
 
 ## ✅ License
 This project is open-source. Feel free to modify and use it!
